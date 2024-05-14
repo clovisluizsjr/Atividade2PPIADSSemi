@@ -1,0 +1,30 @@
+{
+  "name": "atividade2ppiadssemi",
+  "version": "1.0.0",
+  "description": "desenvolvimento de aplicação web envolvendo dados e formulários html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clovisluizsjr/Atividade2PPIADSSemi.git"
+  },
+  "keywords": [
+    "node",
+    "html",
+    "forms",
+    "javascript"
+  ],
+  "author": "Clovis Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clovisluizsjr/Atividade2PPIADSSemi/issues"
+  },
+  "homepage": "https://github.com/clovisluizsjr/Atividade2PPIADSSemi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
